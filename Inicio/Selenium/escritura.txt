@@ -1,0 +1,44 @@
+Documentación oficial : 
+
+https://selenium-python.readthedocs.io/installation.html 
+
+ 
+
+ 
+
+Chrome: https://sites.google.com/a/chromium.org/chromedriver/downloads 
+
+Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/ 
+
+Firefox: https://github.com/mozilla/geckodriver/releases 
+
+Safari: https://webkit.org/blog/6900/webdriver-support-in-safari-10/ 
+
+ 
+
+Drivers para selenium: 
+se debe instalar :
+pip install selenium
+
+esto para que se pueda usar más adelante 
+
+
+
+para armar una xpath en selenium de
+
+
+https://static.platzi.com/media/public/uploads/xpath-cheatsheet-md_a602f187-b7a6-4c09-9822-bf075348878f.pdf
+ 
+
+
+como localizar un elemento con selenium :
+se debe resaltar que para ejecutar esto debe estar inicializada la ventana
+
+https://selenium-python.readthedocs.io/locating-elements.html
+
+
+
+
+
+
+ 
