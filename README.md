@@ -1,0 +1,1 @@
+en este curso use jupyter notebook y se encuentran las celdas comentadas para poder entenderlas 
